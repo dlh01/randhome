@@ -1,0 +1,20 @@
+<!-- sources: http://www.pageresource.com/jscript/jrandom.htm, http://snippets.dzone.com/posts/show/2915 -->
+
+<script>
+function homepage () {
+	var pages = [
+    'http://news.bbc.co.uk/',
+	'http://english.aljazeera.net/',
+	'http://www.guardiannews.com/uk-home',
+    'http://nytimes.com',
+    'http://slatest.slate.com',
+    'http://latimes.com',
+    'http://news.google.com'
+	];
+	// set number equal to the number of sites above
+	var page = Math.floor(Math.random()*7);
+	window.location = pages[page];
+}
+
+</script>
+<body onload="homepage();"></body>
