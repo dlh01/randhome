@@ -3,25 +3,25 @@
 
 # Randhome, the random home page #
 
-Do you set your home page to your favorite news websites so you can
-distract yourself with just one click?
+Do you set your home page to your favorite news website so you can
+inform yourself with just one click?
 
-Are you frustrated knowing that your home page takes you each time to
-the same news site with the same perspective, even though there are so
+Are you frustrated knowing that your home page takes you to the same
+site each time, with the same perspective, even though there are so
 many different takes on the news you could get?
 
-Or maybe you try to visit all of those websites at once and get
-flattened by all the information you see as a result.
+Or maybe you try to visit all of those sites at once and get flattened
+by all the information you see as a result.
 
 Randhome, the random home page, might ease your woes. At least, it
 helped with mine.
 
 It's a single HTML page. Add your favorite websites to the JavaScript
 inside the file and set it as your home page. Each time you open your
-home page, you'll be randomly taken to one of the sites in your list.
-Over time, you should receive a balanced diet of those sites. So you
-know that even though you usually don't have time to visit each site
-at once, over time you'll get regular reports from all of them.
+home page, you'll be randomly flown to one of the sites in your list.
+Over time, you should receive a balanced diet of the news. You'll know
+that even though you usually don't have time to visit each site at
+once, over time you'll get regular reports from all of them.
 
 
 ## Instructions ##
