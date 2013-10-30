@@ -1,20 +1,20 @@
 <!doctype html>
 <head>
-<script>
-function homepage () {
-	var pages = [
-    'http://news.bbc.co.uk/',
-	'http://english.aljazeera.net/',
-	'http://www.guardiannews.com/uk-home',
-    'http://nytimes.com',
-    'http://slatest.slate.com',
-    'http://latimes.com',
-    'http://news.google.com'
-	];
-    var number = pages.length;
-	var page = Math.floor(Math.random()*number);
-	window.location = pages[page];
-}
-</script>
-</head><body onload="homepage();"></body>
+  <script>
+  function homepage () {
+   var pages = [
+   'http://news.bbc.co.uk/',
+   'http://english.aljazeera.net/',
+   'http://www.theguardian.com/uk',
+   'http://nytimes.com',
+   'http://news.ycombinator.com',
+   'https://twitter.com/'
+   ];
+   var number = pages.length;
+   var page = Math.floor(Math.random()*number);
+   window.location = pages[page];
+ }
+ </script>
+</head>
+<body onload="homepage();"></body>
 <!-- sources: http://www.pageresource.com/jscript/jrandom.htm, http://snippets.dzone.com/posts/show/2915 -->
