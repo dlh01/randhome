@@ -35,17 +35,17 @@ and how they should be formatted are provided.
 
 3. Set `home-page.html` to be your browser's home page.
 
-    - If you use Dropbox, you can place `home-page.html` inside your
-      Public folder, then copy the public URL that Dropbox creates
-      (on a Mac or Ubuntu Linux, right-click on the file, go to the
-      Dropbox menu, and then click "Copy Public Link." As an added
-      bonus, this URL works from any machine.
+   - If you use Dropbox, you can place `home-page.html` inside your
+     Public folder, then copy the public URL that Dropbox creates
+     (on a Mac or Ubuntu Linux, right-click on the file, go to the
+     Dropbox menu, and then click "Copy Public Link." As an added
+     bonus, this URL works from any machine.
 
-    - If you don't use Dropbox, you'll have to set the browser's
-      home page to the file path of `home-page.html`. On a Mac,
-      you'll use something like
-      `file:///Users/[yourusername]/Documents/randhome/home-page.html`.
-      On Ubuntu Linux, the path will resemble
-      `file:///home/[yourusername]/Documents/randhome/home-page.html`.
-      I don't know what the path would be on Windows or in other
-      Linux flavors.
+   - If you don't use Dropbox, you'll have to set the browser's
+     home page to the file path of `home-page.html`. On a Mac,
+     you'll use something like
+     `file:///Users/[yourusername]/Documents/randhome/home-page.html`.
+     On Ubuntu Linux, the path will resemble
+     `file:///home/[yourusername]/Documents/randhome/home-page.html`.
+     I don't know what the path would be on Windows or in other
+     Linux flavors.
